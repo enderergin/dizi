@@ -1,0 +1,24 @@
+// Kalıtım alınan sınıf
+class BaseClass
+{
+    public virtual void MyMethod()
+    {
+        Console.WriteLine("BaseClass.MyMethod() çağrıldı.");
+    }
+}
+
+// Kalıtım alan sınıf
+class DerivedClass : BaseClass
+{
+    public override void MyMethod()
+    {
+        Console.WriteLine("DerivedClass.MyMethod() çağrıldı ve üst sınıfın metodunu değiştirdi.");
+    }
+}
+
+// Kullanım
+BaseClass baseObj = new BaseClass();
+baseObj.MyMethod(); // BaseClass.MyMethod() çağrılır
+
+DerivedClass derivedObj = new DerivedClass();
+derivedObj.MyMethod(); // DerivedClass.MyMethod() çağrılır ve üst sınıfın metodunu değiştirir
