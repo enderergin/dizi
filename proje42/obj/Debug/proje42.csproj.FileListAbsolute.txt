@@ -1,0 +1,8 @@
+C:\Users\CASPER\Desktop\Notlar\C#\proje42\bin\Debug\proje42.exe.config
+C:\Users\CASPER\Desktop\Notlar\C#\proje42\bin\Debug\proje42.exe
+C:\Users\CASPER\Desktop\Notlar\C#\proje42\bin\Debug\proje42.pdb
+C:\Users\CASPER\Desktop\Notlar\C#\proje42\obj\Debug\proje42.csproj.AssemblyReference.cache
+C:\Users\CASPER\Desktop\Notlar\C#\proje42\obj\Debug\proje42.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\Desktop\Notlar\C#\proje42\obj\Debug\proje42.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Notlar\C#\proje42\obj\Debug\proje42.exe
+C:\Users\CASPER\Desktop\Notlar\C#\proje42\obj\Debug\proje42.pdb
